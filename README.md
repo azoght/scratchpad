@@ -1,1 +1,2 @@
 # scratchpad
+## Getting Started
